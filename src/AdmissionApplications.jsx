@@ -144,7 +144,7 @@ const AdmissionApplications = () => {
               <th>District</th>
               <th>Status</th>
               <th>Submitted Date</th>
-              <th>Actions</th>
+
             </tr>
           </thead>
 
